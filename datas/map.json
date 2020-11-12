@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "DAM",
+      "lat": -200.5,
+      "lng": 195.296875
+    },
+    {
+      "id": 2,
+      "name": "Military Base",
+      "lat": -163.5,
+      "lng": 476.296875
+    },
+    {
+      "id": 3,
+      "name": "Quarry",
+      "lat": -242.5,
+      "lng": 706.296875
+    },
+    {
+      "id": 4,
+      "name": "Lamber",
+      "lat": -608.5,
+      "lng": 886.296875
+    },
+    {
+      "id": 5,
+      "name": "Stadium",
+      "lat": -625.5,
+      "lng": 670.296875
+    },
+    {
+      "id": 6,
+      "name": "TV Station",
+      "lat": -473.5,
+      "lng": 545.296875
+    },
+    {
+      "id": 7,
+      "name": "Airport",
+      "lat": -450.5,
+      "lng": 234.296875
+    },
+    {
+      "id": 8,
+      "name": "Storage Town",
+      "lat": -576.5,
+      "lng": 155.296875
+    },
+    {
+      "id": 9,
+      "name": "Superstore",
+      "lat": -583.5,
+      "lng": 292.296875
+    },
+    {
+      "id": 10,
+      "name": "Boneyard",
+      "lat": -739.5,
+      "lng": 151.296875
+    },
+    {
+      "id": 11,
+      "name": "Train Station",
+      "lat": -776.5,
+      "lng": 280.296875
+    },
+    {
+      "id": 12,
+      "name": "Hospital",
+      "lat": -752.5,
+      "lng": 477.296875
+    },
+    {
+      "id": 13,
+      "name": "Downtown",
+      "lat": -786.5,
+      "lng": 621.296875
+    },
+    {
+      "id": 14,
+      "name": "Farmland",
+      "lat": -783.5,
+      "lng": 854.296875
+    },
+    {
+      "id": 15,
+      "name": "Prison",
+      "lat": -1014.5,
+      "lng": 877.296875
+    },
+    {
+      "id": 16,
+      "name": "Port",
+      "lat": -889.5,
+      "lng": 727.296875
+    },
+    {
+      "id": 17,
+      "name": "Park",
+      "lat": -911.5,
+      "lng": 581.296875
+    },
+    {
+      "id": 18,
+      "name": "Promenade East",
+      "lat": -869.5,
+      "lng": 412.296875
+    },
+    {
+      "id": 19,
+      "name": "Hills",
+      "lat": -941.5,
+      "lng": 317.296875
+    },
+    {
+      "id": 20,
+      "name": "Promenade West",
+      "lat": -891.5,
+      "lng": 239.296875
+    }
+  ]
